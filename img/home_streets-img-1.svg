@@ -1,0 +1,13 @@
+<svg width="70" height="253" viewBox="0 0 70 253" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="70" width="235" height="70" transform="rotate(90 70 0)" fill="#E9F8DD"/>
+<line x1="35" y1="-2.62268e-07" x2="35" y2="239" stroke="#FCFCF7" stroke-width="12"/>
+<path d="M70 218L70 242L35 242L-1.35505e-06 242L-3.0598e-07 218L35 211L70 218Z" fill="#FCFCF7"/>
+<line x1="34.5" y1="239" x2="34.5" y2="17" stroke="#CCD0D2" stroke-dasharray="4 2"/>
+<circle cx="34.5" cy="17.5" r="3.5" transform="rotate(90 34.5 17.5)" fill="#737AF7"/>
+<circle cx="34.5" cy="64.5" r="3.5" transform="rotate(90 34.5 64.5)" fill="#737AF7"/>
+<circle cx="34.5" cy="111.5" r="3.5" transform="rotate(90 34.5 111.5)" fill="#737AF7"/>
+<circle cx="34.5" cy="158.5" r="3.5" transform="rotate(90 34.5 158.5)" fill="#737AF7"/>
+<circle cx="34.5" cy="205.5" r="3.5" transform="rotate(90 34.5 205.5)" fill="#737AF7"/>
+<circle cx="35" cy="244" r="9" transform="rotate(90 35 244)" fill="#FF4433"/>
+<path d="M40 244L36.5451 245.123L36.5451 248.755L34.4098 245.816L30.9549 246.939L33.0902 244L30.9549 241.061L34.4098 242.184L36.5451 239.245L36.5451 242.877L40 244Z" fill="#F8FBFF"/>
+</svg>
